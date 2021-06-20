@@ -1,0 +1,25 @@
+.conatiner{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.d-flex{
+    margin-left: 14%;
+}
+.btn-sm{
+    background-color: black;
+    color: white;
+    margin-left: 35%;
+    
+}
+.form-control{
+    width: 50%;
+    margin-left: 14%;
+}
+.card-body{
+    width: 60%;
+    margin-left: 14%;
+}
+.sshu{
+    margin-top: 12px;
+    margin-left: 14%;
+}
